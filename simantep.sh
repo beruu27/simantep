@@ -15,7 +15,7 @@ reset='\033[0m'
 now=$(date +"%d-%m-%Y %H:%M:%S")
 output_dir="/storage/emulated/0/Download"
 
-# Prompt estetik
+
 prompt() {
   echo -e "${cyan}┌─╼[${yellow}BE12U-${cyan}]-[~]"
   echo -ne "${cyan}└────╼ ❯❯❯ ${reset}"
